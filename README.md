@@ -1,7 +1,7 @@
 # T3-HeartGold-Monomon
 
 [MurphLeague](https://github.com/TakeJoshyy/TheMurphVerse/edit/main/2.Tournaments/1.MurphLeague-2025/README.md
-) Tourney #2 is HeartGold Monomon
+) Tourney #3 is HeartGold Monomon
 
 Heartgold Monomon: An **UNOFFICIAL** Kaizo IronMON inspired challenge created by BigMurph619 that includes SmartAI on all trainers, more TMs, choosing your starter, and more flexible early game pivoting.
 
