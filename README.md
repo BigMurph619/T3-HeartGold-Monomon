@@ -75,6 +75,9 @@ TBD
 | :-----------------------: |
 | Any Pokemon that is 440 BST or lower will accumulate DOUBLE points. If the Pokemon is evolved into over 440 BST it will resume receiving standard points.                |
 | Shine on! Whoever encounters the most shinies AND shares in the clips and mons channel in the discord will receive 1 bonus point. Screenshots are fine, but please take a clip of the encounter and share the link with the screenshot. (This is to ensure encounters are only from livestreamed seeds during the tourney) |
+| Good guess! Guess the PRIMARY typing of the randomized Red Gyarados in a clip and earn 1 bonus point (non-repeatable?) |
+| Voltorb Flip Game: Whoever reaches the highest level wins 1 bonus point. 3 Voltorbs blows per run. |
+
 
 ## Awards
 
