@@ -46,7 +46,28 @@ TBD
 | Exec Arianna                                      |
 | Full Clear Hideout                                |
 | Pryce                                             |
-
+| Radio Tower Rival |
+| Archer |
+| Full Clear Radio Tower |
+| Clear all trainers routes 44, 45, and 46 |
+| Defeat Clair (2) |
+| Kimoo Girls |
+| VR Rival |
+| Will |
+| Koga |
+| Bruno (2) |
+| Karen (2) |
+| Lance (3) |
+|Mt. Moon Rival|
+|Brock|
+|Misty|
+|Lt. Surge|
+|Erika|
+|Janine|
+|Sabrina|
+|Blaine|
+|Blue|
+|Red (5)|
 
 ## Bonus points
 
