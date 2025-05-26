@@ -1,7 +1,7 @@
 # T3-HeartGold-Monomon
 
 [MurphLeague](https://github.com/TakeJoshyy/TheMurphVerse/edit/main/2.Tournaments/1.MurphLeague-2025/README.md
-) Tourney #3 is HeartGold Monomon
+) Tourney #3 is HeartGold Monomon hosted by [CamMan52](https://www.twitch.tv/camman52)
 
 Heartgold Monomon: An **UNOFFICIAL** Kaizo IronMON inspired challenge created by BigMurph619 that includes SmartAI on all trainers, more TMs, choosing your starter, and more flexible early game pivoting.
 
@@ -18,7 +18,7 @@ June 20th - July 6th Midnight PST, USA.
 
 ### Cost of entry
 
-TBD
+You may enter this tourney for free and be eligible for Murphleague points. There will also be an "Awards Pool" for those who enter via donating 500 bits to Camman52's twitch channel and a stating "I'm in!". 50% of your donation adds to the pool and 50% goes towards Cam for his work hosting. There will also be "Pledges" from members of the community that will add to the final awards pool.
 
 > You have to be in the Murphverse Discord to join.
 
@@ -75,15 +75,18 @@ TBD
 | :-----------------------: |
 | Any Pokemon that is 440 BST or lower will accumulate DOUBLE points. If the Pokemon is evolved into over 440 BST it will resume receiving standard points.                |
 | Shine on! Whoever encounters the most shinies AND shares in the clips and mons channel in the discord will receive 1 bonus point. Screenshots are fine, but please take a clip of the encounter and share the link with the screenshot. (This is to ensure encounters are only from livestreamed seeds during the tourney) |
-| Good guess! Guess the PRIMARY typing of the randomized Red Gyarados in a clip and earn 1 bonus point (non-repeatable?) |
 | Voltorb Flip Game: Whoever reaches the highest level wins 1 bonus point. 3 Voltorbs blows per run. |
+| Pokeathlon - You may compete in the Pokeathlon once per seed AND purchase 1 item with your rewards after. The competitor with the highest score achieved in a single attempt will earn 1 bonus point. |
+| Good guess! Guess the PRIMARY typing of the randomized Red Gyarados in a clip and earn 1 bonus point (non-repeatable) |
+
+Tiebreakers - Pokeathlon score, coinflip.
 
 
 ## Awards
 
 Earn points towards the [Murphleague](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/2.Tournaments/1.MurphLeague-2025).
 
-Top 3 placements will receive ?????????? 
+50% (in bits) of tourney awards pool entrants donations. Any awards promised by the "Pledge Page" community (Updated as pledges come in).
 
 ## Rules
 
