@@ -10,7 +10,7 @@ Seed limit: 100
 Top 3 runs combined. Your cummulative points of your top 3 runs will decide your final score and placement. Must be live and have a VOD.
 
 ### Dates
-June 20th - July 6th Midnight PST, USA.
+June 20th - July 6th Midnight EST, USA.
 
 ### Leaderboard
 
